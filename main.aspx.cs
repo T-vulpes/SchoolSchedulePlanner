@@ -69,9 +69,9 @@ namespace courseschedule
             };
 
             var days = new List<string> { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" };
-            int lessonDuration = 40; // 40 minutes per lesson
-            int shortBreakDuration = 10; // 10 minutes short break
-            int lunchBreakDuration = 30; // 30 minutes lunch break
+            int lessonDuration = 40; //  lesson
+            int shortBreakDuration = 10; // short break
+            int lunchBreakDuration = 30; // lunch break
             TimeSpan initialStartTime;
             int totalLessonsPerDay;
 
