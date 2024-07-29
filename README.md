@@ -1,6 +1,6 @@
 # SchoolClassScheduler
 
-A web application to generate class schedules for different education levels (elementary, middle, high school) with customized lesson and break durations.
+A web application to generate class schedules for different education levels (elementary, middle, high school) 
 
 - Generate class schedules based on the selected education level.
 - Customize lesson durations and break times.
@@ -19,7 +19,7 @@ A web application to generate class schedules for different education levels (el
 ----
 # SchoolClassScheduler
 
-Farklı eğitim seviyeleri (ilkokul, ortaokul, lise) için özelleştirilmiş ders ve teneffüs süreleri ile ders çizelgeleri oluşturmak için bir web uygulaması.
+Farklı eğitim seviyeleri (ilkokul, ortaokul, lise) için  ders çizelgeleri oluşturmak için bir web uygulaması.
 
 - Seçilen eğitim seviyesine göre ders çizelgeleri oluşturun.
 - Ders sürelerini ve teneffüs saatlerini özelleştirin.
