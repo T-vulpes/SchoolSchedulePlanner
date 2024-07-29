@@ -75,7 +75,6 @@ namespace courseschedule
             TimeSpan initialStartTime;
             int totalLessonsPerDay;
 
-            // Determine the initial start time and daily lesson count based on the education level
             switch (educationLevel)
             {
                 case "elementary":
