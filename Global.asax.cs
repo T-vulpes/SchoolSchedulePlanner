@@ -13,7 +13,6 @@ namespace courseschedule
     {
         void Application_Start(object sender, EventArgs e)
         {
-            // Uygulama başlangıcında çalışan kod
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
